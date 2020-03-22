@@ -1,0 +1,21 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+div {
+    width: 150px;
+    height: 118px;
+    background: url('images/winking.jpg');
+}
+
+.happy-kitty {
+    background: url('images/happy.jpg');
+}
+
+.sad-kitty {
+    background: url('images/sad.jpg');
+}
+
+.crying-kitty {
+    background: url('images/crying.jpg');
+}
